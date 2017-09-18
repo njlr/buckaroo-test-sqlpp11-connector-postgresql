@@ -1,0 +1,9 @@
+/.buckd/
+/buck-out/
+/buckaroo/
+.buckconfig.local
+BUCKAROO_DEPS
+buckaroo*.log
+
+# Always resolve
+buckaroo.lock.json

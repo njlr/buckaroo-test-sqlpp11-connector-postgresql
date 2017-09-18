@@ -1,0 +1,6 @@
+{
+  "name": "buckaroo-test-sqlpp11-connector-postgresql",
+  "dependencies": {
+    "rbock/sqlpp11-connector-postgresql": "0.45.0"
+  }
+}
